@@ -1,4 +1,4 @@
-# 🕵️🤖 Detetive de Golpes IA 🚨
+# 🕵️🤖🔎⚠ Detetive de Golpes IA 🚨
 
 **Seu assistente virtual para ajudar a identificar mensagens e tentativas de golpes online!**
 
